@@ -1,3 +1,28 @@
 body {
-  font-family: 'Gill Sans'
+  font-family: 'Gill Sans', "Helvetica Neue",Helvetica,"Hiragino Sans GB","Microsoft YaHei",Arial,sans-serif;
+  font-size: 16px;
+}
+
+.container-page {
+  max-width: 720px;
+}
+
+.logo-container {
+  width: 126px;
+  margin: 30px auto;
+}
+
+.title {
+  font-size: 24px;
+  margin: 10px 0;
+}
+
+.info {
+  color: #ccc;
+  font-size: 16px;
+}
+
+.content {
+  margin: 20px 0;
+  line-height: 2  ;
 }
